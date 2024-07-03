@@ -11,9 +11,3 @@ In most of the videos we use the commands below to
 5. Listing the scrapy projects `scrapy list` 
 6. Running the scrapy project: `scrapy crawl quotes` 
 
-
-
-
-=======
-# Web-Scrapping
->>>>>>> 82db006787aaefd1123541ebdf4221e8b790fb16
