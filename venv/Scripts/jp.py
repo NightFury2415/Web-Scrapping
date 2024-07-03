@@ -1,4 +1,4 @@
-#!C:\Users\Lenovo\basic-scrapy-project\venv\Scripts\python.exe
+#!C:\Users\malav\OneDrive\Desktop\job-api\Web-Scrapping\venv\Scripts\python.exe
 
 import sys
 import json
